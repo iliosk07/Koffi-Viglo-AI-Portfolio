@@ -39,12 +39,12 @@ I am an Applied AI student at Houston Community College, specializing in deep le
   Explored the integration of vision and language models.
 
 ### Midterm Project Proposal
-- Proposed a project focusing on a unique AI application, detailing objectives and methodologies.
+- Designed and documented a proposed AI project, including problem definition, objectives, datasets, and planned approach.
 
 ### Final Project
-- Developed a comprehensive AI solution, integrating multiple techniques and demonstrating practical applications.
+- Developed a complete applied AI project that integrates concepts learned throughout the course, including data processing, model design, evaluation, and analysis.
 
 ## Contact
-- **Email:** your-email@example.com   
+- **Email:** koffidanielviglo@gmail.com   
 - **GitHub:** github.com/your-github-username
 
