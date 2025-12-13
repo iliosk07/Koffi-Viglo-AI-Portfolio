@@ -46,5 +46,5 @@ I am an Applied AI student at Houston Community College, specializing in deep le
 
 ## Contact
 - **Email:** koffidanielviglo@gmail.com   
-- **GitHub:** github.com/your-github-username
+- **GitHub:** https://github.com/iliosk07
 
