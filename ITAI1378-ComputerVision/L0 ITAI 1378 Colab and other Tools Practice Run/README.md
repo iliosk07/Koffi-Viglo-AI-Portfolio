@@ -1,11 +1,3 @@
-# Using Classic Machine Learning in Computer Vision
-
-This project focuses on applying classical machine learning techniques to computer vision tasks. The main goal was to understand how traditional models can be used to classify images and to compare their behavior with more advanced deep learning approaches.
-
-In this project, images were processed and converted into numerical features that could be used by machine learning algorithms. These features were then used to train and test classification models, allowing the computer to recognize visual patterns in the data.
-
-The project helped highlight the strengths and limitations of classical machine learning in computer vision. While these models can work well for simpler problems, they often struggle with complex images compared to deep learning models.
-
-All work was completed using Python in a Jupyter notebook environment, primarily in Google Colab. Libraries such as NumPy, Matplotlib, OpenCV, and Scikit-learn were used for image processing, model training, and evaluation.
-
-By completing this project, I gained a better understanding of how traditional machine learning techniques fit into the broader computer vision workflow and why deep learning methods are often preferred for more complex visual tasks.
+# Colab and other Tools Practice Run
+This assignment is about learning how to use GitHub and Jupyter Notebooks. First, I created a GitHub account, explored the website, made a new repository called “jupyter-exploration,” and learned how to make my first commit. Then, I used an online environment (Google Colab) to create my first Jupyter Notebook. I added a Markdown cell with text and a code cell that printed “Hello, World!” and ran the cells to see the results. Finally, I saved the notebook, downloaded it, and uploaded it to my GitHub repository using GitHub Desktop.
+From this assignment, I learned how to use GitHub for version control and share my work online. I also got hands-on experience with Jupyter Notebook, learning the difference between Markdown and code cells, and how to run Python code interactively. I realized that these tools make it easier to organize work, track changes, and collaborate with others. It also taught me patience because sometimes committing and pushing files took a few tries to get right. Overall, it gave me a solid start with two tools that are essential for programming and data science.
