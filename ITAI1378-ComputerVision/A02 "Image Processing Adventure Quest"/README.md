@@ -1,11 +1,4 @@
 # Image Processing Adventure Quest – Vision Legends
 
-This project focuses on applying basic image processing techniques to better understand how images can be manipulated and analyzed by a computer. The goal of the assignment was to practice working with images and to strengthen foundational computer vision skills through hands-on experimentation.
-
-In this project, I worked with image loading, resizing, and visualization, as well as common image processing operations such as filtering and transformations. These techniques helped improve image quality and highlight important visual features.
-
-The project emphasized understanding how image data is represented and how simple operations affect visual output. By experimenting with different techniques, I gained practical experience in modifying images and observing the results directly in a Jupyter notebook environment.
-
-All work was completed using Python in Google Colab with Jupyter notebooks. Libraries such as NumPy, Matplotlib, and OpenCV were used to process and display images. Public datasets were loaded directly in the notebook and were not stored in this repository.
-
-By completing this project, I developed a stronger foundation in image processing concepts that are essential for more advanced computer vision and deep learning tasks.
+This assignment is about learning the basics of image processing in a fun, creative way. Each group chooses a “realm” like pixels and color models, image formats, enhancement, segmentation, or libraries like OpenCV and Pillow, and completes a challenge in that realm. We then present our findings through something creative—like a comic, skit, video, or storybook.
+From this assignment, I learned how image processing concepts work in practice, like how pixels and color models represent images, how enhancement techniques change images, and how libraries like OpenCV and Pillow make these tasks easier. I also learned how to explain technical ideas creatively and work as a team to communicate complex concepts in an engaging way. It was a fun way to combine technical learning with storytelling and design skills.
