@@ -1,0 +1,2 @@
+# Image Processing Fundamentals
+This project focused on the fundamentals of image processing. The goal was to understand how images are represented as data and how basic operations can be applied to modify or improve them. I worked with techniques such as resizing, filtering, and image transformations. This project helped build a strong foundation for understanding how image processing supports more advanced computer vision tasks.
